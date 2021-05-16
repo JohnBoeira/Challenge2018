@@ -1,0 +1,24 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo4 -N"C:\Users\SN\Desktop\Define Att\Define.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\SN\Desktop\Define Att\" -SP"C:\Users\SENAI\Desktop\Define\" -SP"C:\Users\Franciele\Desktop\luan senai\mikroC PRO for PIC\defs\" -SP"C:\Users\Franciele\Desktop\luan senai\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Franciele\Desktop\Define\" -SP"D:\Define\" -SP"C:\Users\Karine\Desktop\Define\" "Define.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_D.mcl" "__Lib_PWM_c21.mcl" "__Lib_UART_c67.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\SENAI\Desktop\Define'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Franciele\Desktop\luan senai\mikroC PRO for PIC\defs'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Franciele\Desktop\luan senai\mikroC PRO for PIC\uses\P18'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Franciele\Desktop\Define'	 
+warning: 0	1501	Specified search path does not exist: 'D:\Define'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Karine\Desktop\Define'	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 31 ms	 
+diagnostics: 0	122	Compilation Started	Define.c
+warning: 43	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	Define.c
+error: 89	315	Invalid expression	Define.c
+error: 88	402	; expected, but 'int' found	Define.c
+error: 89	424	'}' expected ';' found	Define.c
+error: 103	371	Specifier needed	Define.c
+error: 103	396	Invalid declarator expected'(' or identifier	Define.c
+error: 105	371	Specifier needed	Define.c
+error: 105	396	Invalid declarator expected'(' or identifier	Define.c
+error: 112	371	Specifier needed	Define.c
+error: 112	300	Syntax Error: ')' expected,  but '}' found	Define.c
+error: 119	371	Specifier needed	Define.c
+error: 119	300	Syntax Error: ')' expected,  but '9600' found	Define.c
+error: 119	312	Internal error ''	Define.c
+error: 0	102	Finished (with errors): 06 set 2018, 16:44:03	Define.mcppi
